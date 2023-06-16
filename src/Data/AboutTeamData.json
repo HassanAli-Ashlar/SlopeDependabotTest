@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Michael Rush",
+        "designation": "Founder",
+        "imageName": "team_member_01.png"
+    },
+
+    {
+        "name": "Erica Fregoso",
+        "designation": "IT Administrator",
+        "imageName": "team_member_02.png"
+    },
+
+    {
+        "name": "Donald Jackson",
+        "designation": "Software Developer",
+        "imageName": "team_member_03.png"
+    },
+
+    {
+        "name": "Davir Taylor",
+        "designation": "Art Director",
+        "imageName": "team_member_04.png"
+    },
+
+    {
+        "name": "Bruce Hudson",
+        "designation": "UI/UX Designer",
+        "imageName": "team_member_05.png"
+    },
+
+    {
+        "name": "Jeanette Novak",
+        "designation": "Front End Developer",
+        "imageName": "team_member_06.png"
+    },
+
+    {
+        "name": "Angela Penwell",
+        "designation": "Software Developer",
+        "imageName": "team_member_07.png"
+    },
+
+    {
+        "name": "Justin Greer",
+        "designation": "Customer Support",
+        "imageName": "team_member_08.png"
+    },
+
+    {
+        "name": "Larry Hernandez",
+        "designation": "Graphics Designer",
+        "imageName": "team_member_09.png"
+    }
+]

@@ -1,0 +1,38 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    target-branch: "development"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "11:16"
+    open-pull-requests-limit: 100
+    ignore:
+      - dependency_name: "*"
+        branches:
+          - "main"
+
+  - package-ecosystem: "npm"
+    target-branch: "development"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "11:16"
+    open-pull-requests-limit: 100
+    labels:
+      - "npm dependencies"
+    ignore:
+      - dependency_name: "*"
+        branches:
+          - "main"
+
+    
+  allow:
+    - dependency-type: "all"
+      update-type: "semver:patch"
+    - dependency-type: "all"
+      update-type: "semver:minor"
+    - dependency-type: "all"
+      update-type: "semver:major"
+    - dependency-type: "all"
+      update-type: "security"

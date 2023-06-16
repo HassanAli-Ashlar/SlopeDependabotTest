@@ -1,0 +1,33 @@
+[
+    {
+        "title": "UI/UX Design",
+        "heading": "Sleep therapy’s product landing page design with ecommerce integration.",
+        "headingmini": "Landing page",
+        "headingmini2": "Comfort",
+        "imageName": "project_thumbnail_img_01.jpg"
+    },
+
+    {
+        "title": "UI/UX Design",
+        "heading": "New digital ecommerce app for electronics.",
+        "headingmini": "Mobile  Application",
+        "headingmini2": "Hanker",
+        "imageName": "project_thumbnail_img_02.jpg"
+    },
+
+    {
+        "title": "UI/UX Design",
+        "heading": "Desktop application design for modern dog walking business in Germany.",
+        "headingmini": "Website Design",
+        "headingmini2": "The Fox",
+        "imageName": "project_thumbnail_img_03.jpg"
+    },
+
+    {
+        "title": "UI/UX Design",
+        "heading": "Grocery website for buyers across Australia with iOS &amp; Android apps.",
+        "headingmini": "Website Development",
+        "headingmini2": "Yursayur",
+        "imageName": "project_thumbnail_img_05.jpg"
+    }
+]

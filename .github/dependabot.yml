@@ -17,10 +17,10 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "11:43"
+      time: "11:45"
     open-pull-requests-limit: 100
     labels:
-      - "npm dependencies"
+      - "dependencies"
     ignore:
       - dependency_name: "*"
         branches:

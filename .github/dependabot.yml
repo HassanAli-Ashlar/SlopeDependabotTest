@@ -5,7 +5,7 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "11:16"
+      time: "11:35"
     open-pull-requests-limit: 100
     ignore:
       - dependency_name: "*"
@@ -17,7 +17,7 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "11:16"
+      time: "11:35"
     open-pull-requests-limit: 100
     labels:
       - "npm dependencies"
